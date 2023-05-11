@@ -23,7 +23,3 @@ https://github.com/emersonmcostaa/workana_projeto_scraping_g_sheets/assets/99415
 ## Autor
 
 Emerson Monteiro da Costa
-
-https://github.com/emersonmcostaa
-
-https://www.linkedin.com/in/emersonmcostaa
