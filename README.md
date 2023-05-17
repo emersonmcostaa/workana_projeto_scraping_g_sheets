@@ -12,9 +12,9 @@ __Destaco os seguintes pontos desse projeto:__
 
 2. Ler os dados da planilha no Google Sheets.
 
-3. Percorrer cada linha da planilha e montar os links pra fazer o  _Web Scraping_ das informações solicitadas pelo cliente.
+3. Percorrer cada linha da planilha e combinar as células necessarias para montar os links e fazer o  _Web Scraping_ das informações solicitadas pelo cliente.
 
-4. Salvar os dados do _Scraping_ na mesma planilha lida inicialmente no Google Sheets.  
+4. Salvar os dados do _Web Scraping_ na mesma planilha lida inicialmente no Google Sheets.  
  
 ## Desmonstração do codigo rodadando para o cliente ver:
 
