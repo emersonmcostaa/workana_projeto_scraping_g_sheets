@@ -1,6 +1,6 @@
 # Web Scraping para Cliente no Workana
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/emersonmcostaa/Web-Scraping/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/emersonmcostaa/workana_projeto_scraping_g_sheets/blob/main/LICENSE) 
 
 ## Sobre o projeto
 
